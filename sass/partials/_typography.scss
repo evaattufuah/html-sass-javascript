@@ -1,0 +1,18 @@
+@mixin heading {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+@mixin Rating {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+@mixin Heading-Medium {
+    font-weight: bold;
+    font-size: 15px;
+}
+@mixin Body{
+    font-weight:regular;
+    font-size: 15px;
+}
